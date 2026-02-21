@@ -3,6 +3,9 @@
 SlideExtractor is a lightweight desktop tool that automatically detects and extracts slide screenshots to PDF/JPEGs from screen-recorded lecture videos.
 It removes duplicate frames, then lets you review everything in a visual grid before exporting your selection as a PDF or a folder of images. Built for students who are tired of rewinding a two-hour recording just to catch what was on slide 47!
 
+<img width="1259" height="619" alt="Slide-Extractor - Github Banner" src="https://github.com/user-attachments/assets/958fbb95-b5ed-4940-ab80-4267b185b810" />
+
+
 ## How to use (on Windows only)
 
 1. Download the latest release from [here](https://github.com/Dilshan-H/Slide-Extractor/releases/latest).
@@ -87,10 +90,9 @@ The output will be in the `dist\` folder: `dist\SlideExtractor.exe`
 
 ---
 <br/>
-<footer>
-<center>
+<div align="center">
 Made with ❤ by Dilshan-H & Claude AI
 <br/>
 ─── Because some lecturers teach everything and share nothing ───
-</center>
-</footer>
+</div>
+
