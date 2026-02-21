@@ -1,0 +1,18 @@
+# Build
+build/
+dist/
+
+# Samples
+samples/
+
+# UPX
+upx/
+
+# Artifacts
+artifacts/
+
+# venv
+venv/
+
+# media
+media/
